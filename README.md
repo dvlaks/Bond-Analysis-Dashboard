@@ -12,7 +12,7 @@ This project was built to mirror the technical requirements found in job descrip
 ## Screenshot
 
 ![Dashboard Screenshot](./Screenshot-bond.png)
-*(Instructions: Take a screenshot of your running application at http://localhost:8080/dashboard and save it as `screenshot.png` in the root of your project directory.)*
+
 
 ## Features
 
@@ -54,10 +54,10 @@ Make sure you have the following software installed on your machine:
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your-username/bond-analyzer.git](https://github.com/your-username/bond-analyzer.git)
+    git clone [https://github.com/dvlaks/Bond-Analysis-Dashboard.git](https://github.com/dvlaks/Bond-Analysis-Dashboard)
     cd bond-analyzer
     ```
-    *(Remember to replace `your-username` with your actual GitHub username)*
+    
 
 2.  **Set up the PostgreSQL Database**
 
